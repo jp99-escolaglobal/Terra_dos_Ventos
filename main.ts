@@ -1,0 +1,6 @@
+let Marinheiro_de_frente = sprites.create(assets.image`Marinheiro de frente`, SpriteKind.Player)
+let Marinheiro_virado_para_a_direita = sprites.create(assets.image`Marinheiro virado para a direita`, SpriteKind.Player)
+let Marinheiro_virado_para_esquerda = sprites.create(assets.image`Marinheiro virado para a esquerda`, SpriteKind.Player)
+let Ulisses_de_frente = sprites.create(assets.image`Ulisses de frente`, SpriteKind.Player)
+let Ulisses_virado_para_a_esquerda = sprites.create(assets.image`Ulisses virado para a esquerda`, SpriteKind.Player)
+let Ulisses_virado_para_a_direita = sprites.create(assets.image`Ulisses virado para a direita`, SpriteKind.Player)
